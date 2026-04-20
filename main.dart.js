@@ -46861,7 +46861,7 @@ return J.b8(s)}}
 A.akg.prototype={}
 A.Kt.prototype={
 V(a){var s=null
-return new A.BE(B.Cx,"Appwrite StarterKit",A.wT(s,A.aFe(B.a8,s,s,B.T5),!0),!1,s)}}
+return new A.BE(B.Cx,"KinerjaKu",A.wT(s,A.aFe(B.a8,s,s,B.T5),!0),!1,s)}}
 A.fv.prototype={}
 A.x4.prototype={}
 A.a3c.prototype={
